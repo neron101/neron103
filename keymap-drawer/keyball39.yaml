@@ -55,8 +55,8 @@ layers:
   - {h: '2', s: '$$mdi:bluetooth-connect$$'}
   - {h: '3', s: '$$mdi:bluetooth-connect$$'}
   - $$mdi:volume-high$$
-  - {t: Gui+Sft+ -, s: Gui+Sft+ _}
-  - {t: Gui+Sft+ =, s: Gui+Sft+ +}
+  - {t: Gui+Sft+-, s: Gui+Sft+_}
+  - {t: Gui+Sft+=, s: Gui+Sft++}
   - {t: '[', s: '{'}
   - Q
   - $$mdi:keyboard-tab$$
@@ -66,9 +66,9 @@ layers:
   - MUTE
   - $$mdi:volume-low$$
   - {t: /, s: '?'}
-  - {t: Sft+ /, s: 'Sft+ ?'}
-  - {t: 'Gui+Sft+ ,', s: Gui+Sft+ <}
-  - Gui+Sft+ .
+  - {t: Sft+/, s: 'Sft+?'}
+  - {t: 'Gui+Sft+,', s: Gui+Sft+<}
+  - Gui+Sft+.
   - HOME
   - LANGUAGE 1
   - LANGUAGE 2
@@ -130,7 +130,7 @@ layers:
   - {t: '8', s: '*'}
   - {t: '9', s: (}
   - {t: '0', s: )}
-  - Gui+Sft+ Z
+  - Gui+Sft+Z
   - $$mdi:mouse-right-click-outline$$
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-right-bold$$
